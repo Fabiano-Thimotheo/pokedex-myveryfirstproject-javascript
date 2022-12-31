@@ -1,4 +1,4 @@
-# ![](https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png)                  <img src="https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg" style="zoom:20%;" />
+# ![](https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png)  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <img src="https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg" style="zoom:20%;" />
 
 # <img src="https://i.pinimg.com/564x/15/61/dc/1561dcb8a19ad8e6d4417b29f8c38161--pokemon-svg-files-free-pokemon-font-free.jpg" style="zoom:10%;" />   Bootcamp - JavaScript - Pokédex 
 
